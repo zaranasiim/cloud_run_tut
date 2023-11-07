@@ -118,7 +118,7 @@ There are three approaches to deploying your project as services to Cloud Run:
 
 > **<u>The following user scenario is presented</u>**: 
 >
-> You now work on deploying a Python Flask web application to the **<u>*Cloud Run*</u>** through the last two approaches.
+> You now work on deploying Python and Java web applications to the **<u>*Cloud Run*</u>** through the last two approaches.
 
 
 
