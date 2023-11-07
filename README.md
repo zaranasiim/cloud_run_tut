@@ -1,6 +1,6 @@
 # <COEN6313: Programming On Cloud> TUT: Google Cloud Run
 
-This tutorial will go through three demo projects for two use cases: (1) [Web services: Websites](https://cloud.google.com/run/#section-6) and (2) [Data processing: Lightweight data transformation](https://cloud.google.com/run/#section-6) using **Google Cloud Run**, **Cloud Storage**, **Eventarc (pronunciation: event arch)**, and **BigQuery** services of the Google Cloud Platform.
+This tutorial will go through three demo projects for two use cases: (1) Deploying Web services: Websites and (2) Data Processing: Lightweight Data Transformation using **Google Cloud Run**, **Cloud Storage**, **Eventarc (pronunciation: event arch)**, and **BigQuery** services of the Google Cloud Platform.
 
 Before you dive into the coding, you should study the following materials.
 
